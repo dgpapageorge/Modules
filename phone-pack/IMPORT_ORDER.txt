@@ -1,0 +1,14 @@
+Suggested Ketsu/Zetsu import order
+
+1. 01_Text_Royal_Road.txt - Royal Road (Text)
+2. 02_Text_NovelFire.txt - NovelFire (Text)
+3. 03_Text_Scribble_Hub.txt - Scribble Hub (Text)
+4. 04_Text_NovelBin.txt - NovelBin (Text)
+5. 05_Image_MangaDex.txt - MangaDex (Image)
+6. 06_Image_Mangapill.txt - Mangapill (Image)
+7. 07_Image_WeebCentral.txt - WeebCentral (Image)
+8. 08_Image_WEBTOON.txt - WEBTOON (Image)
+9. 09_Video_AniLiberty.txt - AniLiberty (Video)
+10. 10_Video_Internet_Archive_Anime.txt - Internet Archive Anime (Video)
+11. 11_Video_Wikimedia_Commons_Anime.txt - Wikimedia Commons Anime (Video)
+12. 12_Video_PeerTube_Anime.txt - PeerTube Anime (Video)

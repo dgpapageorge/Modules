@@ -1,0 +1,110 @@
+[
+  {
+    "order": 1,
+    "moduleName": "Royal Road",
+    "type": "Text",
+    "file": "01_Text_Royal_Road.txt",
+    "source": "text/Royal_Road.txt",
+    "bytes": 61966,
+    "sha256": "e11203d74be549bf75aae42e614afd325aff1f96c023d99beb8b05112c2014f3"
+  },
+  {
+    "order": 2,
+    "moduleName": "NovelFire",
+    "type": "Text",
+    "file": "02_Text_NovelFire.txt",
+    "source": "text/NovelFire.txt",
+    "bytes": 78222,
+    "sha256": "9324fb65dce758d4e0dd2010f0f944c57cff77863369fea88db63234ffc2b611"
+  },
+  {
+    "order": 3,
+    "moduleName": "Scribble Hub",
+    "type": "Text",
+    "file": "03_Text_Scribble_Hub.txt",
+    "source": "text/Scribble_Hub.txt",
+    "bytes": 82439,
+    "sha256": "262c11ddafc97995a6c1cfe83566235d13ff1031bdd29e86da8ff557917e781c"
+  },
+  {
+    "order": 4,
+    "moduleName": "NovelBin",
+    "type": "Text",
+    "file": "04_Text_NovelBin.txt",
+    "source": "text/NovelBin.txt",
+    "bytes": 77315,
+    "sha256": "38f625018689c582729e455d692d75b9aba693f5e17c27528d3b45fbaea1d6b1"
+  },
+  {
+    "order": 5,
+    "moduleName": "MangaDex",
+    "type": "Image",
+    "file": "05_Image_MangaDex.txt",
+    "source": "image/MangaDex.txt",
+    "bytes": 78181,
+    "sha256": "1061620f07f0148eee26ad7851a3ad50afeebe644bacda2a58ff37334d45019a"
+  },
+  {
+    "order": 6,
+    "moduleName": "Mangapill",
+    "type": "Image",
+    "file": "06_Image_Mangapill.txt",
+    "source": "image/Mangapill.txt",
+    "bytes": 63384,
+    "sha256": "2a4bfc82a3d2278c34b69f869446f1a39aa6b2bd3d30bfaa7b06e81daaaf8d04"
+  },
+  {
+    "order": 7,
+    "moduleName": "WeebCentral",
+    "type": "Image",
+    "file": "07_Image_WeebCentral.txt",
+    "source": "image/WeebCentral.txt",
+    "bytes": 80438,
+    "sha256": "5ba6f5d9e7f27dbeca62f9e4c04eaeac72edf0399299806ac573155cfe9e8c3f"
+  },
+  {
+    "order": 8,
+    "moduleName": "WEBTOON",
+    "type": "Image",
+    "file": "08_Image_WEBTOON.txt",
+    "source": "image/WEBTOON.txt",
+    "bytes": 80948,
+    "sha256": "3f8c17e62ba7a0e4a0af01dfaeda53bbf8109dfbf57ea9cbcfe13884cbadd16a"
+  },
+  {
+    "order": 9,
+    "moduleName": "AniLiberty",
+    "type": "Video",
+    "file": "09_Video_AniLiberty.txt",
+    "source": "video/AniLiberty.txt",
+    "bytes": 61995,
+    "sha256": "de7edea27012dbdc751ea5dd6466204221d1c6a91e6fa8786c972c243a5859fd"
+  },
+  {
+    "order": 10,
+    "moduleName": "Internet Archive Anime",
+    "type": "Video",
+    "file": "10_Video_Internet_Archive_Anime.txt",
+    "source": "video/Internet_Archive_Anime.txt",
+    "bytes": 62612,
+    "sha256": "d208ed247e0c820d73e9a13da418c6868d428aee9b61008e60f9b756e9e27936"
+  },
+  {
+    "order": 11,
+    "moduleName": "Wikimedia Commons Anime",
+    "type": "Video",
+    "file": "11_Video_Wikimedia_Commons_Anime.txt",
+    "source": "video/Wikimedia_Commons_Anime.txt",
+    "bytes": 63237,
+    "sha256": "b87b5adeb29f4b2616ec843a828f2edb39893663670b205e47d83c4dc8bf1dfa"
+  },
+  {
+    "order": 12,
+    "moduleName": "PeerTube Anime",
+    "type": "Video",
+    "file": "12_Video_PeerTube_Anime.txt",
+    "source": "video/PeerTube_Anime.txt",
+    "bytes": 64264,
+    "sha256": "829a08c9996a29e776ef224981b993c4457006dacde6c669b5579f9619f97d95"
+  }
+]

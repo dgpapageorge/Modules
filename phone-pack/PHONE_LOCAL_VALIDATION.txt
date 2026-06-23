@@ -1,0 +1,40 @@
+Ketsu/Zetsu local phone-pack validation report
+
+Generated from the current workspace artifacts by tools/build-phone-validation-report.mjs.
+This report verifies the exact numbered .txt files in phone-pack/ before phone-pack.zip is built.
+
+Local checks performed:
+- 12 curated phone modules are present.
+- Exactly four Text, four Image, and four Video modules are present.
+- Every numbered .txt file exists and is byte-identical to its dist/*.txt source.
+- Every numbered .txt file is single-line JSON with no UTF-8 BOM or extra whitespace.
+- Every mainPage/search/info/chapters action includes the Ketsu-required separator string.
+- Every manifest byte count and SHA-256 hash matches the actual file.
+- Every parsed module name and type matches phone-pack/manifest.json.
+
+Not covered here:
+- Actual import inside the Ketsu/Zetsu mobile app.
+- Actual touch/UI behavior or media playback on the phone.
+- Future site markup/API changes after this report was generated.
+
+Phone-pack modules:
+01. 01_Text_Royal_Road.txt | Royal Road | Text | 61966 bytes | e11203d74be549bf75aae42e614afd325aff1f96c023d99beb8b05112c2014f3
+02. 02_Text_NovelFire.txt | NovelFire | Text | 78222 bytes | 9324fb65dce758d4e0dd2010f0f944c57cff77863369fea88db63234ffc2b611
+03. 03_Text_Scribble_Hub.txt | Scribble Hub | Text | 82439 bytes | 262c11ddafc97995a6c1cfe83566235d13ff1031bdd29e86da8ff557917e781c
+04. 04_Text_NovelBin.txt | NovelBin | Text | 77315 bytes | 38f625018689c582729e455d692d75b9aba693f5e17c27528d3b45fbaea1d6b1
+05. 05_Image_MangaDex.txt | MangaDex | Image | 78181 bytes | 1061620f07f0148eee26ad7851a3ad50afeebe644bacda2a58ff37334d45019a
+06. 06_Image_Mangapill.txt | Mangapill | Image | 63384 bytes | 2a4bfc82a3d2278c34b69f869446f1a39aa6b2bd3d30bfaa7b06e81daaaf8d04
+07. 07_Image_WeebCentral.txt | WeebCentral | Image | 80438 bytes | 5ba6f5d9e7f27dbeca62f9e4c04eaeac72edf0399299806ac573155cfe9e8c3f
+08. 08_Image_WEBTOON.txt | WEBTOON | Image | 80948 bytes | 3f8c17e62ba7a0e4a0af01dfaeda53bbf8109dfbf57ea9cbcfe13884cbadd16a
+09. 09_Video_AniLiberty.txt | AniLiberty | Video | 61995 bytes | de7edea27012dbdc751ea5dd6466204221d1c6a91e6fa8786c972c243a5859fd
+10. 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video | 62612 bytes | d208ed247e0c820d73e9a13da418c6868d428aee9b61008e60f9b756e9e27936
+11. 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video | 63237 bytes | b87b5adeb29f4b2616ec843a828f2edb39893663670b205e47d83c4dc8bf1dfa
+12. 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video | 64264 bytes | 829a08c9996a29e776ef224981b993c4457006dacde6c669b5579f9619f97d95
+
+Type counts:
+- Text: 4
+- Image: 4
+- Video: 4
+
+Phone completion gate:
+Fill PHONE_TEST_RESULTS.md after testing inside Ketsu/Zetsu. Strict validation passes only when every module has PASS for Import, Main/Search, Info/Details, and Content/Playback.

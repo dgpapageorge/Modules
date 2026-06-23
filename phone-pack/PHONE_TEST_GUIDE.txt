@@ -1,0 +1,22 @@
+Ketsu/Zetsu phone proof guide
+
+Test inside the Ketsu/Zetsu app, not only in a browser.
+Keep Wi-Fi on and import the numbered .txt files one at a time.
+
+Result columns in PHONE_TEST_RESULTS.md:
+- Import: PASS only when the app accepts the .txt file and the module appears in the module list.
+- Main/Search: PASS only when the module opens and either the main page or the listed search query returns results.
+- Info/Details: PASS only when opening a result shows title/details and at least one chapter, episode, image entry, or video entry.
+- Content/Playback: PASS only when the final text, image pages, or raw video link/playback loads in the app.
+
+Use FAIL when a step errors, loads blank, loops forever, crashes, or returns unusable content.
+Use SKIP only when you intentionally did not test that module.
+
+For any FAIL, write all of this in Notes:
+- Exact app error text or visible symptom.
+- The action that failed: import, main, search term, info page, chapter, image, or playback.
+- Whether retrying once changed the result.
+- Whether the same site opens in a normal browser on the phone.
+
+After testing, run tools/validate-phone-results.mjs against the filled PHONE_TEST_RESULTS.md.
+Strict validation passes only when every module has PASS for Import, Main/Search, Info/Details, and Content/Playback.

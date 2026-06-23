@@ -1,0 +1,77 @@
+Ketsu/Zetsu phone runtime checklist
+
+Import the numbered .txt files one at a time. After each import, run the matching check below.
+Record failures with the module number, action that failed, and any app error text.
+
+1. 01_Text_Royal_Road.txt - Royal Road (Text)
+   - Import the module, open it, then search for: mother
+   - Open Mother of Learning or any fiction result.
+   - Open a chapter.
+   - PASS: chapter text loads cleanly and can scroll.
+
+2. 02_Text_NovelFire.txt - NovelFire (Text)
+   - Import the module, open it, then search for: mother
+   - Open Mother of Learning or any novel result.
+   - Open chapter 1 or any chapter.
+   - PASS: chapter title and body text load cleanly and can scroll.
+
+3. 03_Text_Scribble_Hub.txt - Scribble Hub (Text)
+   - Import the module, open it, then search for: alysara
+   - Open The Reincarnation of Alysara or any novel result.
+   - Open the first chapter or any available chapter.
+   - PASS: chapter text loads cleanly after any brief browser verification.
+
+4. 04_Text_NovelBin.txt - NovelBin (Text)
+   - Import the module, open it, then search for: solo
+   - Open Solo Leveling or any novel result.
+   - Open chapter 1 or any chapter.
+   - PASS: full chapter list appears and chapter text loads cleanly.
+
+5. 05_Image_MangaDex.txt - MangaDex (Image)
+   - Import the module, open it, then search for: yotsuba
+   - Open a result with chapters.
+   - Open a chapter.
+   - PASS: manga page images load in order.
+
+6. 06_Image_Mangapill.txt - Mangapill (Image)
+   - Import the module, open it, then search for: one piece
+   - Open One Piece or any manga result.
+   - Open chapter 1 or any available chapter.
+   - PASS: manga page images load in order.
+
+7. 07_Image_WeebCentral.txt - WeebCentral (Image)
+   - Import the module, open it, then search for: one piece
+   - Open One Piece or any manga result.
+   - Open chapter 1 or any available chapter.
+   - PASS: manga page images load in order.
+
+8. 08_Image_WEBTOON.txt - WEBTOON (Image)
+   - Import the module, open it, then search for: tower of god
+   - Open Tower of God or any WEBTOON Originals result.
+   - Open the first episode or any listed episode.
+   - PASS: episode images load in order and scroll cleanly.
+
+9. 09_Video_AniLiberty.txt - AniLiberty (Video)
+   - Import the module and open the latest releases page.
+   - Open any release with episodes.
+   - Open an episode.
+   - PASS: at least one HLS raw video quality appears.
+
+10. 10_Video_Internet_Archive_Anime.txt - Internet Archive Anime (Video)
+   - Import the module and open the main page.
+   - Open a video item.
+   - Open a listed video file.
+   - PASS: at least one direct raw video link appears.
+
+11. 11_Video_Wikimedia_Commons_Anime.txt - Wikimedia Commons Anime (Video)
+   - Import the module and open the main page.
+   - Open a video file result.
+   - Open the video chapter.
+   - PASS: at least one raw video/transcode link appears.
+
+12. 12_Video_PeerTube_Anime.txt - PeerTube Anime (Video)
+   - Import the module and open the main page.
+   - Open any public anime/animation result.
+   - Open the Play video chapter.
+   - PASS: at least one HLS or direct raw video link appears.
+
