@@ -22,6 +22,14 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 10 | 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video |  |  |  |  |  |
 | 11 | 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video |  |  |  |  |  |
 | 12 | 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video |  |  |  |  |  |
+| 13 | 13_Text_Baka-Tsuki.txt | Baka-Tsuki | Text |  |  |  |  |  |
+| 14 | 14_Text_FreeWebNovel.txt | FreeWebNovel | Text |  |  |  |  |  |
+| 15 | 15_Text_ReadNovelFull.txt | ReadNovelFull | Text |  |  |  |  |  |
+| 16 | 16_Text_Novgo.txt | Novgo | Text |  |  |  |  |  |
+| 17 | 17_Text_NovelCool.txt | NovelCool | Text |  |  |  |  |  |
+| 18 | 18_Text_WuxiaWorld.txt | WuxiaWorld | Text |  |  |  |  |  |
+| 19 | 19_Image_Asura_Scans.txt | Asura Scans | Image |  |  |  |  |  |
+| 20 | 20_Image_MangaKatana.txt | MangaKatana | Image |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

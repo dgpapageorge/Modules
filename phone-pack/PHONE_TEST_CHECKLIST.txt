@@ -75,3 +75,51 @@ Record failures with the module number, action that failed, and any app error te
    - Open the Play video chapter.
    - PASS: at least one HLS or direct raw video link appears.
 
+13. 13_Text_Baka-Tsuki.txt - Baka-Tsuki (Text)
+   - Import the module, open it, then search for: Kore wa Zombie
+   - Open Kore wa Zombie desu ka? or another Baka-Tsuki project.
+   - Open a chapter link.
+   - PASS: wiki project details and chapter text load cleanly.
+
+14. 14_Text_FreeWebNovel.txt - FreeWebNovel (Text)
+   - Import the module, open it, then search for: shadow slave
+   - Open Shadow Slave or any novel result.
+   - Open chapter 1 or any chapter.
+   - PASS: chapter list appears and chapter text loads cleanly.
+
+15. 15_Text_ReadNovelFull.txt - ReadNovelFull (Text)
+   - Import the module, open it, then search for: martial
+   - Open World Defying Dan God or any novel result.
+   - Open chapter 1 or any chapter.
+   - PASS: full chapter list appears and chapter text loads cleanly.
+
+16. 16_Text_Novgo.txt - Novgo (Text)
+   - Import the module, open it, then search for: shadow slave
+   - Open Shadow Slave or any novel result.
+   - Open Chapter 1 Nightmare Begins or any chapter.
+   - PASS: full chapter list appears and chapter text loads cleanly.
+
+17. 17_Text_NovelCool.txt - NovelCool (Text)
+   - Import the module, open it, then search for: shadow slave
+   - Open Shadow Slave or any NovelCool result.
+   - Open Chapter 1 or any chapter.
+   - PASS: large chapter list appears and chapter text loads cleanly.
+
+18. 18_Text_WuxiaWorld.txt - WuxiaWorld (Text)
+   - Import the module, open it, then search for: coiling dragon
+   - Open Coiling Dragon or any WuxiaWorld result.
+   - Open Book 1, Chapter 1 or any available chapter.
+   - PASS: chapter list appears and chapter text loads cleanly.
+
+19. 19_Image_Asura_Scans.txt - Asura Scans (Image)
+   - Import the module and open the main page.
+   - Open a comic result.
+   - Open chapter 1 or any available chapter.
+   - PASS: long-strip chapter images load in order.
+
+20. 20_Image_MangaKatana.txt - MangaKatana (Image)
+   - Import the module, open it, then search for: solo
+   - Open Solo Leveling or any manga result.
+   - Open chapter 1 or any available chapter.
+   - PASS: manga page images load in order.
+

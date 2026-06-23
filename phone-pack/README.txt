@@ -1,8 +1,8 @@
 Zetsu/Ketsu flat phone import pack
 
 Import the numbered .txt files one at a time.
-This curated pack contains four Text, four Image, and four Video modules.
-The files are sorted as Text, Image, then Video modules.
+This full pack contains every generated module.
+The first 12 files are the recommended starter set; files 13-20 are extra generated sources.
 Each .txt file contains compact JSON and matches the corresponding dist file.
 PHONE_TEST_CHECKLIST.txt lists quick runtime checks for each module.
 PHONE_TEST_GUIDE.txt explains what counts as PASS/FAIL evidence.

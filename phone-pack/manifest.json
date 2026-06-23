@@ -106,5 +106,77 @@
     "source": "video/PeerTube_Anime.txt",
     "bytes": 64264,
     "sha256": "829a08c9996a29e776ef224981b993c4457006dacde6c669b5579f9619f97d95"
+  },
+  {
+    "order": 13,
+    "moduleName": "Baka-Tsuki",
+    "type": "Text",
+    "file": "13_Text_Baka-Tsuki.txt",
+    "source": "text/Baka-Tsuki.txt",
+    "bytes": 62029,
+    "sha256": "df8b5ad87b29aa028bb22d7912decf81681933afb5e8f79fa8589d473129bd97"
+  },
+  {
+    "order": 14,
+    "moduleName": "FreeWebNovel",
+    "type": "Text",
+    "file": "14_Text_FreeWebNovel.txt",
+    "source": "text/FreeWebNovel.txt",
+    "bytes": 62251,
+    "sha256": "075de88f08eac539983bd652b5c37ba6c99239041633a60e2fff1a467971fb46"
+  },
+  {
+    "order": 15,
+    "moduleName": "ReadNovelFull",
+    "type": "Text",
+    "file": "15_Text_ReadNovelFull.txt",
+    "source": "text/ReadNovelFull.txt",
+    "bytes": 77655,
+    "sha256": "43d0fbc08bf3ba8411974cc9e204b90dd3d4bc10912c3e8f623b17a199e13a31"
+  },
+  {
+    "order": 16,
+    "moduleName": "Novgo",
+    "type": "Text",
+    "file": "16_Text_Novgo.txt",
+    "source": "text/Novgo.txt",
+    "bytes": 79090,
+    "sha256": "0bde9ccc9d41338b894215984aee95c05f3dccca261ee55d4ac1f40dc1967d70"
+  },
+  {
+    "order": 17,
+    "moduleName": "NovelCool",
+    "type": "Text",
+    "file": "17_Text_NovelCool.txt",
+    "source": "text/NovelCool.txt",
+    "bytes": 64316,
+    "sha256": "8647fd9c4140e9b909cc571577141b3119a7e547fd0738c43d15f6b993500e57"
+  },
+  {
+    "order": 18,
+    "moduleName": "WuxiaWorld",
+    "type": "Text",
+    "file": "18_Text_WuxiaWorld.txt",
+    "source": "text/WuxiaWorld.txt",
+    "bytes": 133661,
+    "sha256": "035654c3297314f88e017aea9c8a9d121f534d3caffd9f0f2b5c47d453735165"
+  },
+  {
+    "order": 19,
+    "moduleName": "Asura Scans",
+    "type": "Image",
+    "file": "19_Image_Asura_Scans.txt",
+    "source": "image/Asura_Scans.txt",
+    "bytes": 62152,
+    "sha256": "052a6a56bef57db676fa92fc861e2199717f1e1a38a3371aca5373e32826a0ba"
+  },
+  {
+    "order": 20,
+    "moduleName": "MangaKatana",
+    "type": "Image",
+    "file": "20_Image_MangaKatana.txt",
+    "source": "image/MangaKatana.txt",
+    "bytes": 61911,
+    "sha256": "30787360743b3a2b331d7018572d2d4595576d9fcd1725dda7cef46881fc96d0"
   }
 ]
