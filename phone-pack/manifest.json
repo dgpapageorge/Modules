@@ -5,8 +5,8 @@
     "type": "Text",
     "file": "01_Text_Royal_Road.txt",
     "source": "text/Royal_Road.txt",
-    "bytes": 103262,
-    "sha256": "d1ccc2f1d438e04d47a4b9dd91cbecd80b3e0d80363f4a9874397f0bda6c503d"
+    "bytes": 103549,
+    "sha256": "18d9c5d419f3cedc40ff16af93dff38f3d9bbf519d0dd0d336fe363489901f94"
   },
   {
     "order": 2,
@@ -14,8 +14,8 @@
     "type": "Text",
     "file": "02_Text_NovelFire.txt",
     "source": "text/NovelFire.txt",
-    "bytes": 122907,
-    "sha256": "b5ff304c350829c5224ebd2912b7e6b510297fb3136bff8d43be8fd6628e588e"
+    "bytes": 122930,
+    "sha256": "2ac5efff5544d54773d8c293f8508732dfe357f37165945c65a9a1ab58e1487d"
   },
   {
     "order": 3,
@@ -23,8 +23,8 @@
     "type": "Text",
     "file": "03_Text_Scribble_Hub.txt",
     "source": "text/Scribble_Hub.txt",
-    "bytes": 91548,
-    "sha256": "21ee5a078001d1363c33a9d174325ba3f0fcc8fee4a4541da7b953e3c0db6b52"
+    "bytes": 91571,
+    "sha256": "e1b9082e4c1c5a7b9aeb39b064b2ab6943a0cc0d5f5b6e7c0c743bdb6e70cd56"
   },
   {
     "order": 4,
@@ -32,8 +32,8 @@
     "type": "Text",
     "file": "04_Text_NovelBin.txt",
     "source": "text/NovelBin.txt",
-    "bytes": 86424,
-    "sha256": "ec8de209580fd99e8e2a85509d0deb7c9fd5b6ed6aa74251883a5a7927345d12"
+    "bytes": 86447,
+    "sha256": "785709384d18ee63a9d1806f4e87501989b226304a298d7bbcf7e626c966dafc"
   },
   {
     "order": 5,
@@ -41,8 +41,8 @@
     "type": "Image",
     "file": "05_Image_MangaDex.txt",
     "source": "image/MangaDex.txt",
-    "bytes": 123497,
-    "sha256": "e1edab0239817b0e0b7b047cf1204494ee2c6c6aabfbfb48c6d488ba03f8fe07"
+    "bytes": 123520,
+    "sha256": "1dd98082327305cf6750230158c697f9a4e049b52706de296a16369a1523911f"
   },
   {
     "order": 6,
@@ -50,8 +50,8 @@
     "type": "Image",
     "file": "06_Image_Mangapill.txt",
     "source": "image/Mangapill.txt",
-    "bytes": 88127,
-    "sha256": "ee8cb164546f876a127f81e85c0f67f1f453a961c758911cf4829e5976defe08"
+    "bytes": 88189,
+    "sha256": "c08dc5bb36d7e7d37f9a2296216b37bc5e522ba3626cc6e36f5ba098476ee8b7"
   },
   {
     "order": 7,
@@ -59,8 +59,8 @@
     "type": "Image",
     "file": "07_Image_WeebCentral.txt",
     "source": "image/WeebCentral.txt",
-    "bytes": 89547,
-    "sha256": "be60d67efbba84d9014fa505a95bae77f65acf8f4d07c48c4279f5dd3d169445"
+    "bytes": 89980,
+    "sha256": "45c89808a57abcad6cfd8927e59cbd7c0dd5d06bdc4abec8f306531dfd3ea269"
   },
   {
     "order": 8,
@@ -68,8 +68,8 @@
     "type": "Image",
     "file": "08_Image_WEBTOON.txt",
     "source": "image/WEBTOON.txt",
-    "bytes": 90057,
-    "sha256": "888c9034d8fca84400fadac22ad4dd0f5f092928863adef66571006206f59aac"
+    "bytes": 107861,
+    "sha256": "e9020d54430343d370c2d5b4ff9b9f784d569becc3521e393185e5b92c78cfb7"
   },
   {
     "order": 9,
@@ -77,8 +77,8 @@
     "type": "Video",
     "file": "09_Video_AniLiberty.txt",
     "source": "video/AniLiberty.txt",
-    "bytes": 69297,
-    "sha256": "9c31dfdb2748f2c53479ebb5a59200665cdacbf931beab1a61fae80d421a64e4"
+    "bytes": 69320,
+    "sha256": "30a83688db00ec318e419a1f400fdc52f64f15ebaf0aa72d14e68367308d666d"
   },
   {
     "order": 10,
@@ -86,8 +86,8 @@
     "type": "Video",
     "file": "10_Video_Internet_Archive_Anime.txt",
     "source": "video/Internet_Archive_Anime.txt",
-    "bytes": 69914,
-    "sha256": "67c6a667291e92a73a13cd3cce102202d9a5bbe6be992768aa1de58c2a39041f"
+    "bytes": 69937,
+    "sha256": "c923b6d78279b1ae35b915e817ef66d516110933aecc46793c51b7efd5fc1c19"
   },
   {
     "order": 11,
@@ -95,8 +95,8 @@
     "type": "Video",
     "file": "11_Video_Wikimedia_Commons_Anime.txt",
     "source": "video/Wikimedia_Commons_Anime.txt",
-    "bytes": 70539,
-    "sha256": "8eb72951c3ed075c939ab9f787f1e972b118787caf0bbdf42fe9d552b773db84"
+    "bytes": 70562,
+    "sha256": "1dc7d80bc2a2a142f008ed874f3a15811b75d68eea2e77dafaa22ed9ce99e0af"
   },
   {
     "order": 12,
@@ -104,8 +104,8 @@
     "type": "Video",
     "file": "12_Video_PeerTube_Anime.txt",
     "source": "video/PeerTube_Anime.txt",
-    "bytes": 71566,
-    "sha256": "aa4051f38667253b75f2f401e541f25a52c9d66b3c2cfba7d068bc3d92f71bc9"
+    "bytes": 71589,
+    "sha256": "605305647ce3160424352adef3982e2f76b40affca94a54a4f47fd53aa5bbb49"
   },
   {
     "order": 13,
@@ -113,8 +113,8 @@
     "type": "Text",
     "file": "13_Text_Baka-Tsuki.txt",
     "source": "text/Baka-Tsuki.txt",
-    "bytes": 69331,
-    "sha256": "33bbfe5c7b437b5943c08b94317cf94ddeec90b026cd1aca41feade4ad98fe1a"
+    "bytes": 69713,
+    "sha256": "83cb33595dfd928663c705f4a049a58f77b9039cdbe87d84ce2f9bf11d332fcb"
   },
   {
     "order": 14,
@@ -122,8 +122,8 @@
     "type": "Text",
     "file": "14_Text_FreeWebNovel.txt",
     "source": "text/FreeWebNovel.txt",
-    "bytes": 103617,
-    "sha256": "1cc132ebd8ef5eeec33dcfa0bad0a8e22296202d9b8697b743f01f24af993607"
+    "bytes": 103640,
+    "sha256": "aba1dadc8ed04beb9f87ea14c7ed8fe1027787924ce244fab342d2649e5689c7"
   },
   {
     "order": 15,
@@ -131,8 +131,8 @@
     "type": "Text",
     "file": "15_Text_ReadNovelFull.txt",
     "source": "text/ReadNovelFull.txt",
-    "bytes": 120801,
-    "sha256": "c4193a64d38a3cd838066f76c8b51f0530f82297bc0cf8155e0da343036cf231"
+    "bytes": 120824,
+    "sha256": "1b0152e1e872dc8b92fcd061faafbd85bd1efea7bf7d59eb2572fc6a02c6f55c"
   },
   {
     "order": 16,
@@ -140,8 +140,8 @@
     "type": "Text",
     "file": "16_Text_Novgo.txt",
     "source": "text/Novgo.txt",
-    "bytes": 88199,
-    "sha256": "13544df7ae01062e81e1f87595d4b73f7818be5a48b0fb0eecb71b97b6f37eb5"
+    "bytes": 88222,
+    "sha256": "55cd5a5949de18a69436d4d46043dcd31a792d789a50c87e826703d0674b0520"
   },
   {
     "order": 17,
@@ -149,8 +149,8 @@
     "type": "Text",
     "file": "17_Text_NovelCool.txt",
     "source": "text/NovelCool.txt",
-    "bytes": 106366,
-    "sha256": "58c2b7c004e6b914fc0f3bc406d39c34136d6a6ec1ba898f7b67a473d6bbc01a"
+    "bytes": 106389,
+    "sha256": "0a1fe46333b9d3887a9833beedea5f37e62dded7f4f1f295924f25b1d16dd7ae"
   },
   {
     "order": 18,
@@ -158,8 +158,8 @@
     "type": "Text",
     "file": "18_Text_WuxiaWorld.txt",
     "source": "text/WuxiaWorld.txt",
-    "bytes": 144593,
-    "sha256": "c06957c33e7a84c16156fa029e7769a33f50b124bc881adc3b44a14ccd51fea9"
+    "bytes": 146192,
+    "sha256": "20c2036bb02322c77faf01220cefffafafcc3ca2ee3b41a6bd684393a82eb9f6"
   },
   {
     "order": 19,
@@ -167,8 +167,8 @@
     "type": "Image",
     "file": "19_Image_Asura_Scans.txt",
     "source": "image/Asura_Scans.txt",
-    "bytes": 69454,
-    "sha256": "9e626640dca91f093dfbd03ea3a17aafd5b2e033e449afb4970121e2d5fc820e"
+    "bytes": 69477,
+    "sha256": "9b60f2bdb5abb1ff2238e619931f491f4f7ba2e87c3493c3960871d47aa5968c"
   },
   {
     "order": 20,
@@ -176,7 +176,7 @@
     "type": "Image",
     "file": "20_Image_MangaKatana.txt",
     "source": "image/MangaKatana.txt",
-    "bytes": 69213,
-    "sha256": "0d8e6cfba929a0fbde576121242f77b1b8f8c83acea7478e3b91c9519d13771f"
+    "bytes": 69236,
+    "sha256": "ff0a92078587c5b5f7bd63036d758ce8033232556e400b9f8feb4e29deb108b1"
   }
 ]
