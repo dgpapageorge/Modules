@@ -2,211 +2,211 @@
   {
     "moduleName": "Royal Road",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/RoyalRoad.json",
     "json": "text/Royal_Road.json",
     "txt": "text/Royal_Road.txt",
-    "bytes": 103693,
-    "sha256": "ef1691675cfb9e9968c5cfd27e2dc84564e5e13cb6af734589ee7ece477da748"
+    "bytes": 103709,
+    "sha256": "9d823ebe14caf946b12f190db3acb22e9cd8614c8cac10852d7f9b3e92824ce1"
   },
   {
     "moduleName": "Baka-Tsuki",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/BakaTsuki.json",
     "json": "text/Baka-Tsuki.json",
     "txt": "text/Baka-Tsuki.txt",
-    "bytes": 69793,
-    "sha256": "c30bcdaaec7ba976d624e10a2972ee46d621e8c9d519feb3e4e5862a7f619c95"
+    "bytes": 69809,
+    "sha256": "79c3bf2b8c9184eae922733ad1c416bdd810fa5f58a22092845858be04b75b95"
   },
   {
     "moduleName": "NovelFire",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/NovelFire.json",
     "json": "text/NovelFire.json",
     "txt": "text/NovelFire.txt",
-    "bytes": 123106,
-    "sha256": "bed44bd46face47bd6c064e75b36a68f76cc8fd32e26d34aef0e329a48f57209"
+    "bytes": 123122,
+    "sha256": "55f4145c9021b1d4e4ce9191ad972dd655c4e2671e145bd9af5c7371eb1c36cd"
   },
   {
     "moduleName": "NovelBin",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/NovelBin.json",
     "json": "text/NovelBin.json",
     "txt": "text/NovelBin.txt",
-    "bytes": 86559,
-    "sha256": "4ab562dc20ed33486f731482e20d050af976f4c9c80a01d1a0c6ab4535eb123d"
+    "bytes": 86575,
+    "sha256": "4c940b2eb8d0a48786c6045fcb0529292712ed6708c76ba2c784e6363aad49d1"
   },
   {
     "moduleName": "FreeWebNovel",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/FreeWebNovel.json",
     "json": "text/FreeWebNovel.json",
     "txt": "text/FreeWebNovel.txt",
-    "bytes": 103784,
-    "sha256": "a3788ca7408dacbe4fd3bad3004787ba8954c2c1bde4f4490002e83bf65c702d"
+    "bytes": 103800,
+    "sha256": "26e4009ad01516927c5ba4639d44ad68dde6cab4420009305137374bed839066"
   },
   {
     "moduleName": "ReadNovelFull",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/ReadNovelFull.json",
     "json": "text/ReadNovelFull.json",
     "txt": "text/ReadNovelFull.txt",
-    "bytes": 121000,
-    "sha256": "f5b2390bc0b76aa6f3409e423ac108788bd5989124b560bd89fea71c894dfd91"
+    "bytes": 121016,
+    "sha256": "d74175976391903cf847e37018c915545143fdb2a43895d877ee5e863e9a44a1"
   },
   {
     "moduleName": "Novgo",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/Novgo.json",
     "json": "text/Novgo.json",
     "txt": "text/Novgo.txt",
-    "bytes": 88334,
-    "sha256": "f32e381e8bc72166a044ee3d0924b1b4bf9dc3dbf0fa4ca116ab0e823e2855dd"
+    "bytes": 88350,
+    "sha256": "5b27e9cf653ba12bd286041617d09cf3d90e41d77b77fb739bfa8dbbb50d73de"
   },
   {
     "moduleName": "NovelCool",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/NovelCool.json",
     "json": "text/NovelCool.json",
     "txt": "text/NovelCool.txt",
-    "bytes": 106533,
-    "sha256": "d4af7e23b3e30d92c730e1ab4cb4312bade14115b9f4fb32a5fca15efa244029"
+    "bytes": 106549,
+    "sha256": "23a469801d7b7d2651dee468627dd0424d21d6e3e3cb78576388ab6bb6d05d59"
   },
   {
     "moduleName": "Scribble Hub",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/ScribbleHub.json",
     "json": "text/Scribble_Hub.json",
     "txt": "text/Scribble_Hub.txt",
-    "bytes": 91683,
-    "sha256": "37784801596d33be609e689049386d0ba36086a4be5d44e1443bc6fa898f30aa"
+    "bytes": 91699,
+    "sha256": "d65f7028fe0db8efb21a0a32bef0f7ce6a588e1c1c410a53bf682983382812c9"
   },
   {
     "moduleName": "WuxiaWorld",
     "type": "Text",
-    "version": 8,
+    "version": 9,
     "source": "text/WuxiaWorld.json",
     "json": "text/WuxiaWorld.json",
     "txt": "text/WuxiaWorld.txt",
-    "bytes": 146336,
-    "sha256": "bc746c6e6504b881f68cf55da6fae654f729ce34ac0e9b45a05bbf5e508009fd"
+    "bytes": 146352,
+    "sha256": "1c124d7c5967754d5b8804359599739ae8851ec9669fb59980990e8c3f14585f"
   },
   {
     "moduleName": "MangaDex",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/MangaDex.json",
     "json": "image/MangaDex.json",
     "txt": "image/MangaDex.txt",
-    "bytes": 123696,
-    "sha256": "02fedb456d3a05e767cecf6ef0d7768ed14685252c0adcab88abf5a3d21107cf"
+    "bytes": 123712,
+    "sha256": "450a5a6e7b32d527d2fc72193009bbd66e7f72856e0541d06022e40fa366bd77"
   },
   {
     "moduleName": "Asura Scans",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/AsuraScans.json",
     "json": "image/Asura_Scans.json",
     "txt": "image/Asura_Scans.txt",
-    "bytes": 69557,
-    "sha256": "ab692dcf243d5571806a3c3dcb16a920290084bb596ae06da4b18c59dac63e7c"
+    "bytes": 69573,
+    "sha256": "99f1d4fbdb777f6212d38009f9b08a331961c251bd59513d87202c9293047b4d"
   },
   {
     "moduleName": "MangaKatana",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/MangaKatana.json",
     "json": "image/MangaKatana.json",
     "txt": "image/MangaKatana.txt",
-    "bytes": 69316,
-    "sha256": "7afa9c7244720f925aae1191c1e8d29ce016100c3f26b4ffe6cfd8bc42041517"
+    "bytes": 69332,
+    "sha256": "5444e53eb9e19694a1fe33a278534a62419b29fc308b72ef733c57e6f8d21753"
   },
   {
     "moduleName": "Mangapill",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/MangaPill.json",
     "json": "image/Mangapill.json",
     "txt": "image/Mangapill.txt",
-    "bytes": 88301,
-    "sha256": "97a539ae69cf36ba25311a149c3e76c0f08926feede47c4871bff3d1d3b03de8"
+    "bytes": 88317,
+    "sha256": "4ecaeeb864d46e69ab02e95b3ed43a3518e87da35c3cf3933a07f78cb7414582"
   },
   {
     "moduleName": "WeebCentral",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/WeebCentral.json",
     "json": "image/WeebCentral.json",
     "txt": "image/WeebCentral.txt",
-    "bytes": 90092,
-    "sha256": "ee51311ed6d581ca3b60930919d009d20b18f04762908b667629c71b5d95afd9"
+    "bytes": 90108,
+    "sha256": "baeb6d8ecdd4bbab813702c75080b0264672d0e7b8604afd0d829f7efdfda040"
   },
   {
     "moduleName": "WEBTOON",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/WEBTOON.json",
     "json": "image/WEBTOON.json",
     "txt": "image/WEBTOON.txt",
-    "bytes": 108005,
-    "sha256": "f679c501a407bb02c83c0c7a45005c12f4c9870db487f14c47d988d395a762cb"
+    "bytes": 108021,
+    "sha256": "a4bd933db064b49c255971c52477820ffad18bcb920c97909ad3ddc9e28856f0"
   },
   {
     "moduleName": "Tapas",
     "type": "Image",
-    "version": 8,
+    "version": 9,
     "source": "image/Tapas.json",
     "json": "image/Tapas.json",
     "txt": "image/Tapas.txt",
-    "bytes": 137512,
-    "sha256": "8f6fb201c2f1db9745780d90678246e2d1f25ea59fefd302c9f8ea2e3bd31798"
+    "bytes": 139269,
+    "sha256": "18333b258a6b355c73e5db7a51d54aaa71d7c6239946a014fec346b715dc867b"
   },
   {
     "moduleName": "Internet Archive Anime",
     "type": "Video",
-    "version": 8,
+    "version": 9,
     "source": "video/InternetArchive.json",
     "json": "video/Internet_Archive_Anime.json",
     "txt": "video/Internet_Archive_Anime.txt",
-    "bytes": 70017,
-    "sha256": "9990c95d318bc36f29de8535b1fb3c5f850c8e7eb806c5639b803c261364e8dc"
+    "bytes": 70033,
+    "sha256": "9c1eb72fde3020cdc6febeac4720397f229619b73358f9543731c5acc9503ce4"
   },
   {
     "moduleName": "Wikimedia Commons Anime",
     "type": "Video",
-    "version": 8,
+    "version": 9,
     "source": "video/WikimediaCommons.json",
     "json": "video/Wikimedia_Commons_Anime.json",
     "txt": "video/Wikimedia_Commons_Anime.txt",
-    "bytes": 70642,
-    "sha256": "9ab4bb620680e030d9ba8fe82d0eab82e4fe7f8a0d70428d988a733333ba16b3"
+    "bytes": 70658,
+    "sha256": "509226e8ab68601e6a8f50da3a2df02e83effe0d6a76ae88a382ba8149c14a7f"
   },
   {
     "moduleName": "AniLiberty",
     "type": "Video",
-    "version": 8,
+    "version": 9,
     "source": "video/AniLiberty.json",
     "json": "video/AniLiberty.json",
     "txt": "video/AniLiberty.txt",
-    "bytes": 69400,
-    "sha256": "ebd3b6e4b73dc8db59a2d195a5f5987ba9bec84888b774f74a5e1aa9e4f6dc2a"
+    "bytes": 69416,
+    "sha256": "191cd4fc20a2f789622070e042174e203be6b3f400d89b116a73417f2c7b1928"
   },
   {
     "moduleName": "PeerTube Anime",
     "type": "Video",
-    "version": 8,
+    "version": 9,
     "source": "video/PeerTubeAnime.json",
     "json": "video/PeerTube_Anime.json",
     "txt": "video/PeerTube_Anime.txt",
-    "bytes": 71669,
-    "sha256": "26d36d5bc79ab88e67260414b5f4e0001ecdd510fe6eaa415947fccc428d713b"
+    "bytes": 71685,
+    "sha256": "a17f1f36a2cf23b397cb41033c1d327962e813652c256f243a499f9f1b84f968"
   }
 ]
