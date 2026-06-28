@@ -123,3 +123,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open chapter 1 or any available chapter.
    - PASS: manga page images load in order.
 
+21. 21_Image_Tapas.txt - Tapas (Image)
+   - Import the module, open it, then search for: solo
+   - Open Solo-Q or any Tapas comic result.
+   - Open episode 1 or any available free episode.
+   - PASS: Tapas comic images load in order and scroll cleanly.
+

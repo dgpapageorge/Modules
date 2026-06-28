@@ -20,3 +20,4 @@ Suggested Ketsu/Zetsu import order
 18. 18_Text_WuxiaWorld.txt - WuxiaWorld (Text)
 19. 19_Image_Asura_Scans.txt - Asura Scans (Image)
 20. 20_Image_MangaKatana.txt - MangaKatana (Image)
+21. 21_Image_Tapas.txt - Tapas (Image)

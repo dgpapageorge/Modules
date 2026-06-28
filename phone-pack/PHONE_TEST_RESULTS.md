@@ -30,6 +30,7 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 18 | 18_Text_WuxiaWorld.txt | WuxiaWorld | Text |  |  |  |  |  |
 | 19 | 19_Image_Asura_Scans.txt | Asura Scans | Image |  |  |  |  |  |
 | 20 | 20_Image_MangaKatana.txt | MangaKatana | Image |  |  |  |  |  |
+| 21 | 21_Image_Tapas.txt | Tapas | Image |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

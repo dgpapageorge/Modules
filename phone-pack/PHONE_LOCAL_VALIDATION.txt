@@ -4,7 +4,7 @@ Generated from the current workspace artifacts by tools/build-phone-validation-r
 This report verifies the exact numbered .txt files in phone-pack/ before phone-pack.zip is built.
 
 Local checks performed:
-- All 20 generated phone modules are present.
+- All 21 generated phone modules are present.
 - Type counts match dist/manifest.json.
 - Every numbered .txt file exists and is byte-identical to its dist/*.txt source.
 - Every numbered .txt file is single-line JSON with no UTF-8 BOM or extra whitespace.
@@ -18,30 +18,31 @@ Not covered here:
 - Future site markup/API changes after this report was generated.
 
 Phone-pack modules:
-01. 01_Text_Royal_Road.txt | Royal Road | Text | 103549 bytes | 18d9c5d419f3cedc40ff16af93dff38f3d9bbf519d0dd0d336fe363489901f94
-02. 02_Text_NovelFire.txt | NovelFire | Text | 122930 bytes | 2ac5efff5544d54773d8c293f8508732dfe357f37165945c65a9a1ab58e1487d
-03. 03_Text_Scribble_Hub.txt | Scribble Hub | Text | 91571 bytes | e1b9082e4c1c5a7b9aeb39b064b2ab6943a0cc0d5f5b6e7c0c743bdb6e70cd56
-04. 04_Text_NovelBin.txt | NovelBin | Text | 86447 bytes | 785709384d18ee63a9d1806f4e87501989b226304a298d7bbcf7e626c966dafc
-05. 05_Image_MangaDex.txt | MangaDex | Image | 123520 bytes | 1dd98082327305cf6750230158c697f9a4e049b52706de296a16369a1523911f
-06. 06_Image_Mangapill.txt | Mangapill | Image | 88189 bytes | c08dc5bb36d7e7d37f9a2296216b37bc5e522ba3626cc6e36f5ba098476ee8b7
-07. 07_Image_WeebCentral.txt | WeebCentral | Image | 89980 bytes | 45c89808a57abcad6cfd8927e59cbd7c0dd5d06bdc4abec8f306531dfd3ea269
-08. 08_Image_WEBTOON.txt | WEBTOON | Image | 107861 bytes | e9020d54430343d370c2d5b4ff9b9f784d569becc3521e393185e5b92c78cfb7
-09. 09_Video_AniLiberty.txt | AniLiberty | Video | 69320 bytes | 30a83688db00ec318e419a1f400fdc52f64f15ebaf0aa72d14e68367308d666d
-10. 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video | 69937 bytes | c923b6d78279b1ae35b915e817ef66d516110933aecc46793c51b7efd5fc1c19
-11. 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video | 70562 bytes | 1dc7d80bc2a2a142f008ed874f3a15811b75d68eea2e77dafaa22ed9ce99e0af
-12. 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video | 71589 bytes | 605305647ce3160424352adef3982e2f76b40affca94a54a4f47fd53aa5bbb49
-13. 13_Text_Baka-Tsuki.txt | Baka-Tsuki | Text | 69713 bytes | 83cb33595dfd928663c705f4a049a58f77b9039cdbe87d84ce2f9bf11d332fcb
-14. 14_Text_FreeWebNovel.txt | FreeWebNovel | Text | 103640 bytes | aba1dadc8ed04beb9f87ea14c7ed8fe1027787924ce244fab342d2649e5689c7
-15. 15_Text_ReadNovelFull.txt | ReadNovelFull | Text | 120824 bytes | 1b0152e1e872dc8b92fcd061faafbd85bd1efea7bf7d59eb2572fc6a02c6f55c
-16. 16_Text_Novgo.txt | Novgo | Text | 88222 bytes | 55cd5a5949de18a69436d4d46043dcd31a792d789a50c87e826703d0674b0520
-17. 17_Text_NovelCool.txt | NovelCool | Text | 106389 bytes | 0a1fe46333b9d3887a9833beedea5f37e62dded7f4f1f295924f25b1d16dd7ae
-18. 18_Text_WuxiaWorld.txt | WuxiaWorld | Text | 146192 bytes | 20c2036bb02322c77faf01220cefffafafcc3ca2ee3b41a6bd684393a82eb9f6
-19. 19_Image_Asura_Scans.txt | Asura Scans | Image | 69477 bytes | 9b60f2bdb5abb1ff2238e619931f491f4f7ba2e87c3493c3960871d47aa5968c
-20. 20_Image_MangaKatana.txt | MangaKatana | Image | 69236 bytes | ff0a92078587c5b5f7bd63036d758ce8033232556e400b9f8feb4e29deb108b1
+01. 01_Text_Royal_Road.txt | Royal Road | Text | 103712 bytes | 8644a0cdf2d37717589ba50cc56461a5863cbe23b19276570b9bcf200d7064a0
+02. 02_Text_NovelFire.txt | NovelFire | Text | 123125 bytes | 3efac70e0dcf5ea3169432a34e809740b7483617ffa1598c320bc6e3df85b309
+03. 03_Text_Scribble_Hub.txt | Scribble Hub | Text | 91702 bytes | 94b26b6402bbc24ec249ab021759a54aa968734777bc1d5d6c0c7acfc3fc59fe
+04. 04_Text_NovelBin.txt | NovelBin | Text | 86578 bytes | 6735cc10db91b515c99fa3f3e95e52a220673c4601c59812f6727b322a8bb048
+05. 05_Image_MangaDex.txt | MangaDex | Image | 123715 bytes | 13ac3f0db7adc8a3fd3ef42994446492cb5a2f56b17a75c6d31afe77044d6d52
+06. 06_Image_Mangapill.txt | Mangapill | Image | 88320 bytes | f7e4491356af7ef0dec44ec69f3aa211bc48bc7207119483c974198059291307
+07. 07_Image_WeebCentral.txt | WeebCentral | Image | 90111 bytes | 767f336245c443faaaacdefb3b34b165956a5f66bd1ec68992a7b87b02e2976a
+08. 08_Image_WEBTOON.txt | WEBTOON | Image | 108024 bytes | 3acee60b57f00b5d3a38491f8e065a14f9639c63054640c097f48a1f82b95f2a
+09. 09_Video_AniLiberty.txt | AniLiberty | Video | 69419 bytes | a242c8a84d7b1feca3b97ffef6cf0af9089e9d5b20646d2ec18619bd785c8fad
+10. 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video | 70036 bytes | ccb1b334422b4e486dc614ebdfb314d22ff38151794abb03d8abd9c8226cbd07
+11. 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video | 70661 bytes | 1b1d8dd885da708c87f2504384790ad6ecac6d18667b96e18f8fac468ff757b3
+12. 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video | 71688 bytes | c25077a9a8d25c2bba06e3a660d0331e303022a3dc3f92dfa657bebe052d059e
+13. 13_Text_Baka-Tsuki.txt | Baka-Tsuki | Text | 69812 bytes | 053365251761e9d8cd86acf0a374f105cb37bef067fd33878464fca00afe2626
+14. 14_Text_FreeWebNovel.txt | FreeWebNovel | Text | 103803 bytes | c0ee2a89d98c82b21ed2ad2e00b33e1f1e7982028ff130215245844463870e0a
+15. 15_Text_ReadNovelFull.txt | ReadNovelFull | Text | 121019 bytes | 664461bd4ef61340b490089c41812ebca57e14f69bc099db33198ae78b35b8c1
+16. 16_Text_Novgo.txt | Novgo | Text | 88353 bytes | 802f5cf7fd4a0887da20c475525d94dc4d93156eadf08297e7b4bf2ac2cbddaa
+17. 17_Text_NovelCool.txt | NovelCool | Text | 106552 bytes | 26b7cdf0d681988105501ad8e2e6ddea10223a5e45d7220d51e1868b2757636c
+18. 18_Text_WuxiaWorld.txt | WuxiaWorld | Text | 146355 bytes | c23e1105d2fde8288ebd18e361f0d509380486599e234b2d7ceefd7564c6a2e1
+19. 19_Image_Asura_Scans.txt | Asura Scans | Image | 69576 bytes | 4eb4cc23ff4dd29cceff35af6439864b3df49e47f7fe44e1b23cfd1697f7dab8
+20. 20_Image_MangaKatana.txt | MangaKatana | Image | 69335 bytes | 2073267334cef48b6bae9615720019f4f93426a7eea02dee7ecb51faf23c77e8
+21. 21_Image_Tapas.txt | Tapas | Image | 90822 bytes | 184712f76979cdd36b31d2f0d1e0f9eeda945d93bcef98b2075395c625b4da8b
 
 Type counts:
 - Text: 10
-- Image: 6
+- Image: 7
 - Video: 4
 
 Phone completion gate:

@@ -21,6 +21,7 @@ Manifest:
 - Mangapill (Image): image/Mangapill.json / image/Mangapill.txt
 - WeebCentral (Image): image/WeebCentral.json / image/WeebCentral.txt
 - WEBTOON (Image): image/WEBTOON.json / image/WEBTOON.txt
+- Tapas (Image): image/Tapas.json / image/Tapas.txt
 - Internet Archive Anime (Video): video/Internet_Archive_Anime.json / video/Internet_Archive_Anime.txt
 - Wikimedia Commons Anime (Video): video/Wikimedia_Commons_Anime.json / video/Wikimedia_Commons_Anime.txt
 - AniLiberty (Video): video/AniLiberty.json / video/AniLiberty.txt
