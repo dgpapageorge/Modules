@@ -18,27 +18,27 @@ Not covered here:
 - Future site markup/API changes after this report was generated.
 
 Phone-pack modules:
-01. 01_Text_Royal_Road.txt | Royal Road | Text | 103677 bytes | 250e611da667a1d111694bbc90f7be9929d93f5bceec6caaf3bedbe097eb9f8a
-02. 02_Text_NovelFire.txt | NovelFire | Text | 123090 bytes | aea3ef51fb5c99061ef76aa9a438a53ee11fc38e9a76d355e749ed6a818328ef
-03. 03_Text_Scribble_Hub.txt | Scribble Hub | Text | 91667 bytes | 5cde505686c3c90acb2dd869b9a4c8494d07e0ee76a2649c88547acbaeba89a7
-04. 04_Text_NovelBin.txt | NovelBin | Text | 86543 bytes | 81f5a11293cb2e5d0fc721f5dfea61943382e7b48fc99a9ff722e7183c62e01a
-05. 05_Image_MangaDex.txt | MangaDex | Image | 123680 bytes | e144ab2c0f4bc8b5832847e51ce3225e2cf6a6e90d0b759e4536d55ed5ad554d
-06. 06_Image_Mangapill.txt | Mangapill | Image | 88285 bytes | 5b1c7aecea1e711287a5e2d7c8dff328976a06e96a634e77ee39449a61c4b758
-07. 07_Image_WeebCentral.txt | WeebCentral | Image | 90076 bytes | 81d74906e617133a1acc8771b444cfa62d3ef2cb2d06c7377df1af498f0d2ea9
-08. 08_Image_WEBTOON.txt | WEBTOON | Image | 107989 bytes | 21f5e9ca8e6c8d6d75dd77dfc85670c34b584ebe7c34875d6dbf1e73253173b3
-09. 09_Video_AniLiberty.txt | AniLiberty | Video | 69384 bytes | dbac365df582e16f2a444c8f48da8213382137e87fb77ac8e1b18834700703c5
-10. 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video | 70001 bytes | 7eb585cacc3e32094452d01ad497a673a013a9b0efab7dd3d07dd20f86a2513d
-11. 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video | 70626 bytes | 892e00d626cb9595c45d236f70c8e601ba60550315349dc2ea23dbb993f1e336
-12. 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video | 71653 bytes | 6ca20fe3c8f3da402b9a7b2bd0cf3813dea7acb14af601eb3137db8ed2448082
-13. 13_Text_Baka-Tsuki.txt | Baka-Tsuki | Text | 69777 bytes | 6bb85b2f699be002eb005ffe50ce5409e382c08c07aa476e1d4226531341dd53
-14. 14_Text_FreeWebNovel.txt | FreeWebNovel | Text | 103768 bytes | b4063f7a16a801c290a221b6f4b55ab68836cd02c77c42776a1f4099b7ef15d0
-15. 15_Text_ReadNovelFull.txt | ReadNovelFull | Text | 120984 bytes | 9340821e8bd0512439c0dfb0025fa4afea06f320e87f52d95e212a6e63b6b44f
-16. 16_Text_Novgo.txt | Novgo | Text | 88318 bytes | 484ba9c4928a5284d64eb9c9c37fe8e22022aaadb77df93bfe2de91a8172490f
-17. 17_Text_NovelCool.txt | NovelCool | Text | 106517 bytes | b2963e2be1dbfa97e8d0efac3cb504c8b2b47452649769b5d87c2fd3c69d6217
-18. 18_Text_WuxiaWorld.txt | WuxiaWorld | Text | 146320 bytes | 176ceb1d617ae19cda3edc9bea6785af9cffc8507d685ee570451b131a444086
-19. 19_Image_Asura_Scans.txt | Asura Scans | Image | 69541 bytes | 01f61c01d94d8baab5200656f43a05d650f7f94b383796c99ca4b282ac262e71
-20. 20_Image_MangaKatana.txt | MangaKatana | Image | 69300 bytes | 0458f530172f1d6e9f8ed58aaa5e810752c3bc24a39aaefaf61320f2d77dacc3
-21. 21_Image_Tapas.txt | Tapas | Image | 140025 bytes | 11b268e5e0e4c86521a6942db6a16b99e29eb38143ec6fd339bfa4d7d4d17257
+01. 01_Text_Royal_Road.txt | Royal Road | Text | 103839 bytes | 30858b9d96953d8054cf1b7597ecd3ba690f606adacee892654e52b40ab47dbb
+02. 02_Text_NovelFire.txt | NovelFire | Text | 123274 bytes | 9b7f07fac0686ac69082a8fdb7db2cf523b67b4efe7f67d70983442cf5421142
+03. 03_Text_Scribble_Hub.txt | Scribble Hub | Text | 91807 bytes | 3e6c4d8c961da0235b8e1b7e47cb3d2cd4a40009e388313b6cc138b2b921511c
+04. 04_Text_NovelBin.txt | NovelBin | Text | 86683 bytes | 45edb0579bb1bf20798d7e9bd589937a8f2f5e1dec8524546fe2e49f4f8ef90d
+05. 05_Image_MangaDex.txt | MangaDex | Image | 123864 bytes | 30028a7e19261828a0c214b1f7e530c7405996da5d12fd42230cf937eb2e4b27
+06. 06_Image_Mangapill.txt | Mangapill | Image | 88425 bytes | 0e303ba50b8ea5533ac48911e1e201f5a66250dd1392279f48e324e842696a4b
+07. 07_Image_WeebCentral.txt | WeebCentral | Image | 90216 bytes | bcc053ac0debe08b855a435f3240f1104d3cd4baa643670014e6b74f81e68742
+08. 08_Image_WEBTOON.txt | WEBTOON | Image | 113504 bytes | 749de0900a70c4c7ece210c22b2337b09e72d5977e25f3a540ee856923acd0e0
+09. 09_Video_AniLiberty.txt | AniLiberty | Video | 69502 bytes | 917aa0cadd7fc423aea547839aa94498314dc9ae87629a64a455d5bf96913a89
+10. 10_Video_Internet_Archive_Anime.txt | Internet Archive Anime | Video | 70119 bytes | 4bbcbeedd5f19bc83f3e94479ada2bcbd4f50a59686b449c291cb1dd00cfe665
+11. 11_Video_Wikimedia_Commons_Anime.txt | Wikimedia Commons Anime | Video | 70744 bytes | e959d166e4e75a22a289d6883a1be7167a6c85b1273c354b13abeee5aa768f5a
+12. 12_Video_PeerTube_Anime.txt | PeerTube Anime | Video | 71771 bytes | 69f06b7a1a7d0773c18e80f202f5a744db124c73d30268485192f4102acb199b
+13. 13_Text_Baka-Tsuki.txt | Baka-Tsuki | Text | 69895 bytes | bf1be83513abca98d78313ee3092b3dfafc1c4a61d76945959f5dae84f3a8634
+14. 14_Text_FreeWebNovel.txt | FreeWebNovel | Text | 105000 bytes | 65fab1f375f9c2366adf393b8b720c26d0d585dd3a3b6713d5ae51e4f457ff96
+15. 15_Text_ReadNovelFull.txt | ReadNovelFull | Text | 121168 bytes | 8e04279236682060cacbb2a4aea848772228f9be457415885c5fd7c61ccd8a7e
+16. 16_Text_Novgo.txt | Novgo | Text | 88458 bytes | b40a236da8b4b2cdc982f2fa318a74bbbfc16101bd86f6ecd9970d13c87e11b7
+17. 17_Text_NovelCool.txt | NovelCool | Text | 106679 bytes | a19f4b4864e862f271de9bb852221c35fc41292dbad280239439a59c7c973308
+18. 18_Text_WuxiaWorld.txt | WuxiaWorld | Text | 146482 bytes | 10beb68de607df3437fc6c25c2722fba6bfe64948a41f06f1c69450d1f885c37
+19. 19_Image_Asura_Scans.txt | Asura Scans | Image | 69659 bytes | e8530567d4b43ddc87cbace7c1551804fefd68a746c96a3202573723a16bcc25
+20. 20_Image_MangaKatana.txt | MangaKatana | Image | 69418 bytes | ab2059260c6cbd84e96ec21b584a1bf8bebfd5d945e34940b50527e12a08a34c
+21. 21_Image_Tapas.txt | Tapas | Image | 140275 bytes | 4ae61e8701a86b250ffd10b4a4da51ecbea3bc6473a0a0f38bd4695980dbf33f
 
 Type counts:
 - Text: 10
