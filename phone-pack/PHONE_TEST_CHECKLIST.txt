@@ -183,3 +183,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open the digital viewing copy.
    - PASS: at least one HLS or MP4 raw video link from loc.gov appears.
 
+31. 31_Video_Pluto_TV_Anime.txt - Pluto TV Anime (Video)
+   - Import the module and open the main page.
+   - Open Pluto TV Anime or any anime live channel result.
+   - Open Watch Live.
+   - PASS: one HLS live raw video link appears.
+
