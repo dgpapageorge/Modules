@@ -201,3 +201,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Play Video or Watch Live.
    - PASS: one official HLS raw video link appears.
 
+34. 34_Video_Xumo_Play_Live.txt - Xumo Play Live (Video)
+   - Import the module and open the main page.
+   - Open Heartland, Xena, Family Feud, or any listed Xumo channel.
+   - Open Watch Live.
+   - PASS: one official HLS live raw video link appears.
+
