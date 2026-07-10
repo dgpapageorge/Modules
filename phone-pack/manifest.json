@@ -5,8 +5,8 @@
     "type": "Text",
     "file": "01_Text_Royal_Road.txt",
     "source": "text/Royal_Road.txt",
-    "bytes": 112860,
-    "sha256": "b711affee4daf2d39063b127c83e56ec2db9fab2a7101b4fd6017b466acc9f5f"
+    "bytes": 112877,
+    "sha256": "a8c6e03b101ad484e20b8d256bed9610f9cfae7e07346f008ba83f6174fdcc77"
   },
   {
     "order": 2,
@@ -14,8 +14,8 @@
     "type": "Text",
     "file": "02_Text_NovelFire.txt",
     "source": "text/NovelFire.txt",
-    "bytes": 133804,
-    "sha256": "58355585d9c1af93651ed90405b7c5f698a4d5287df43f9a6feca6cf3c3c66a7"
+    "bytes": 133821,
+    "sha256": "b01e94ef1ef394e157571c94cbb413b879e2af07c95cd2f483b3eb4e08da2ecb"
   },
   {
     "order": 3,
@@ -23,8 +23,8 @@
     "type": "Text",
     "file": "03_Text_Scribble_Hub.txt",
     "source": "text/Scribble_Hub.txt",
-    "bytes": 99769,
-    "sha256": "43be1afaa0459f442b7165ca8ce4316b173d4c101a26e317127f3919517efea5"
+    "bytes": 99786,
+    "sha256": "a6534864fc092ccc8d622807637f28dc4ae0b7754d603f8c369c72dc9df8240a"
   },
   {
     "order": 4,
@@ -32,8 +32,8 @@
     "type": "Text",
     "file": "04_Text_NovelBin.txt",
     "source": "text/NovelBin.txt",
-    "bytes": 94544,
-    "sha256": "4a97d40070352a24b1a2ce4431df2f6293086de596605dcbefadceafc17d7519"
+    "bytes": 94561,
+    "sha256": "d01f4ac75923d9281cb224984e36b2f1fce5d4e07ddd7e86486c3275c828e295"
   },
   {
     "order": 5,
@@ -41,8 +41,8 @@
     "type": "Image",
     "file": "05_Image_MangaDex.txt",
     "source": "image/MangaDex.txt",
-    "bytes": 134394,
-    "sha256": "00060ee232469f335e02b3d531fdd0cc50b9491e3ae1b848ad323bbc9cb058a0"
+    "bytes": 134411,
+    "sha256": "08abe4d744faf119a5e185113864dd4c16372a2bd9fa8ac02a566744ce6fa460"
   },
   {
     "order": 6,
@@ -50,8 +50,8 @@
     "type": "Image",
     "file": "06_Image_Mangapill.txt",
     "source": "image/Mangapill.txt",
-    "bytes": 95937,
-    "sha256": "0e4189750d9de51d64dc809b9469c7de810f58a584c66238e902eac7c5719230"
+    "bytes": 96107,
+    "sha256": "87a22629db03d64b1e397382e553c17f54757cd2295d3c3bd1829adb208ab146"
   },
   {
     "order": 7,
@@ -59,8 +59,8 @@
     "type": "Image",
     "file": "07_Image_WeebCentral.txt",
     "source": "image/WeebCentral.txt",
-    "bytes": 97728,
-    "sha256": "246a9c051a813f3c83dca363a7f82b9852da06862223152eec281a4382b4679f"
+    "bytes": 97745,
+    "sha256": "e8d299d7ab0195252761b63088fc6ec25a31769ed9da517e6f269a00dc749d30"
   },
   {
     "order": 8,
@@ -68,8 +68,8 @@
     "type": "Image",
     "file": "08_Image_WEBTOON.txt",
     "source": "image/WEBTOON.txt",
-    "bytes": 122525,
-    "sha256": "ca4c075b17a75c186709389cdde32924f7382cc74fb4f017ac812a6c45202a27"
+    "bytes": 122542,
+    "sha256": "564375882ed1f701b28db4483ee0d485986f32b8a3e66642b3a6da0817978758"
   },
   {
     "order": 9,
@@ -77,8 +77,8 @@
     "type": "Video",
     "file": "09_Video_AniLiberty.txt",
     "source": "video/AniLiberty.txt",
-    "bytes": 75505,
-    "sha256": "c9421e9d3d3cb9c5e04c0ee1693d5c28fb64cf332ed4f08594f830fdb4aa551f"
+    "bytes": 75522,
+    "sha256": "343be69719ff891462bfb5bdba5f226840f2a87210578fcc8cdf1a8c24a52f40"
   },
   {
     "order": 10,
@@ -86,8 +86,8 @@
     "type": "Video",
     "file": "10_Video_Internet_Archive_Anime.txt",
     "source": "video/Internet_Archive_Anime.txt",
-    "bytes": 76122,
-    "sha256": "0800827cc27a22158c96d9f48077b84538d12dfec6d95f68c9cf98470e5320b6"
+    "bytes": 76139,
+    "sha256": "400a4cfff590942fcb801026a7cc61a09def1da5c25dbabb9ae9b42853a64206"
   },
   {
     "order": 11,
@@ -95,8 +95,8 @@
     "type": "Video",
     "file": "11_Video_Wikimedia_Commons_Anime.txt",
     "source": "video/Wikimedia_Commons_Anime.txt",
-    "bytes": 76747,
-    "sha256": "7954ebbc74c1524a0261496a7b4450164dbfb8f5969ca9c4b14451aaac96ada5"
+    "bytes": 76764,
+    "sha256": "a04691ef06b5f0798678c37501e46638bff14831750272e5555f6fb02387f8cb"
   },
   {
     "order": 12,
@@ -104,8 +104,8 @@
     "type": "Video",
     "file": "12_Video_PeerTube_Anime.txt",
     "source": "video/PeerTube_Anime.txt",
-    "bytes": 77774,
-    "sha256": "3a87a969a8590a54682c92849f9bc27da0673cfdcdfb5fa881b511bcca94593b"
+    "bytes": 77791,
+    "sha256": "c54fa914ef2fa80b21bbeae084bfad361c8605fd9c1177f8f6e192f96bb37df9"
   },
   {
     "order": 13,
@@ -113,8 +113,8 @@
     "type": "Text",
     "file": "13_Text_Baka-Tsuki.txt",
     "source": "text/Baka-Tsuki.txt",
-    "bytes": 75898,
-    "sha256": "28a863cdb7b942317c3413dfa14e75d8100b73e32294e3cd5e74a0f3f8432f05"
+    "bytes": 75915,
+    "sha256": "69598b9af84b5c004ba890e877b139cd283437535ac2d45d029a84b7621f79c3"
   },
   {
     "order": 14,
@@ -122,8 +122,8 @@
     "type": "Text",
     "file": "14_Text_FreeWebNovel.txt",
     "source": "text/FreeWebNovel.txt",
-    "bytes": 115147,
-    "sha256": "fcaeb657ff0e6875f26ff2757b33599423f320817beba97c8f5f1408edacdf8f"
+    "bytes": 115164,
+    "sha256": "b2c5fe503ced83a55aea8a63c4142cfb4c52103631d0507d6fb0f1498c4966d7"
   },
   {
     "order": 15,
@@ -131,8 +131,8 @@
     "type": "Text",
     "file": "15_Text_ReadNovelFull.txt",
     "source": "text/ReadNovelFull.txt",
-    "bytes": 131698,
-    "sha256": "0b3c74c3850726a632d4f625146400eaba63e43e24842e3834a79297e144200e"
+    "bytes": 131715,
+    "sha256": "ff22e6c583dd5a4c3e074b794941fe4c3a96af7a60cb75d2e9b5af5b6d0ca6cf"
   },
   {
     "order": 16,
@@ -140,8 +140,8 @@
     "type": "Text",
     "file": "16_Text_Novgo.txt",
     "source": "text/Novgo.txt",
-    "bytes": 95970,
-    "sha256": "bb78a57cfb1c4c99bf8f4c1148d1813dd85bee8fe4ef8965b672db1597704460"
+    "bytes": 95987,
+    "sha256": "ea4db5c0384382cb835d257c821ee7981726220081224ea4213f86c0cacfd5aa"
   },
   {
     "order": 17,
@@ -149,8 +149,8 @@
     "type": "Text",
     "file": "17_Text_NovelCool.txt",
     "source": "text/NovelCool.txt",
-    "bytes": 115700,
-    "sha256": "2087447c0334d6941099d1a4d4eb79bddf20cef636fd2922a8569d9e3d3a063a"
+    "bytes": 115717,
+    "sha256": "8fedee6fd1d0a6223b0e3c405666f734f8c73b64a2679f8e77ea5ed575e9ca2e"
   },
   {
     "order": 18,
@@ -158,8 +158,8 @@
     "type": "Text",
     "file": "18_Text_WuxiaWorld.txt",
     "source": "text/WuxiaWorld.txt",
-    "bytes": 155503,
-    "sha256": "adafd40fa832beb8c8d13624426e6ac380261e255df57809013fa1d288e5b0e7"
+    "bytes": 155520,
+    "sha256": "62a8872db05d6ab5d6582f4f6f830d5aed6a209adde2950ce814b365c8c7a94a"
   },
   {
     "order": 19,
@@ -167,8 +167,8 @@
     "type": "Image",
     "file": "19_Image_Asura_Scans.txt",
     "source": "image/Asura_Scans.txt",
-    "bytes": 75662,
-    "sha256": "9e909572b460e7f337223d87a3f898db3354dc43c79b409c0e4eed43c39ae719"
+    "bytes": 75679,
+    "sha256": "dcce9bfe435390f5714e5ac824be3acd6af79c0b95e38e041bdcc1b451da1cce"
   },
   {
     "order": 20,
@@ -176,8 +176,8 @@
     "type": "Image",
     "file": "20_Image_MangaKatana.txt",
     "source": "image/MangaKatana.txt",
-    "bytes": 75421,
-    "sha256": "b903f5a5d3b0beb96e9eb2f663c9b0dddd060c18247f71160a811c4de8c356e7"
+    "bytes": 75438,
+    "sha256": "86e2181070c2c7acdd7cba41a4cb97e7c23cf881f965505e217ebf3a4ffa304c"
   },
   {
     "order": 21,
@@ -185,8 +185,8 @@
     "type": "Image",
     "file": "21_Image_Tapas.txt",
     "source": "image/Tapas.txt",
-    "bytes": 150805,
-    "sha256": "192808f042fa28e37f9a98fff5555477b94d96fb9767ad3c59689ae1ed685cb8"
+    "bytes": 150822,
+    "sha256": "ad2cf09aa5885224d9783b97dd7d93ffb71c1a6acc55bf954b8898be9140a039"
   },
   {
     "order": 22,
@@ -194,8 +194,8 @@
     "type": "Video",
     "file": "22_Video_Internet_Archive_TV_Movies.txt",
     "source": "video/Internet_Archive_TV_Movies.txt",
-    "bytes": 76223,
-    "sha256": "245880e1d62caea540f0206b23cebbdf106eb2b851316b7c4944f7a78b6e9280"
+    "bytes": 76240,
+    "sha256": "1be834f43810027001b8f061650c7cc80cbd73c17654a723ede73bdb361a7bc1"
   },
   {
     "order": 23,
@@ -203,8 +203,8 @@
     "type": "Video",
     "file": "23_Video_Wikimedia_Commons_Video.txt",
     "source": "video/Wikimedia_Commons_Video.txt",
-    "bytes": 76794,
-    "sha256": "d13ae3f28fd42e98ed63238c3ccf086866ce17265fbd92079e43231b3bc7bc53"
+    "bytes": 76811,
+    "sha256": "feeaa676c618bb68c6d847a8633689e2289eb85e048a4c548895a3d9e36b6828"
   },
   {
     "order": 24,
@@ -212,8 +212,8 @@
     "type": "Video",
     "file": "24_Video_PeerTube_Movies_Shows.txt",
     "source": "video/PeerTube_Movies_Shows.txt",
-    "bytes": 77816,
-    "sha256": "97cf24250d11aec9a688e79eede0eaa95054188f2edd17cfa87b231e7c303784"
+    "bytes": 77833,
+    "sha256": "be943cc1b5c526b8034fd2138b82b1eef9dd536cc37af8ddd5bbb6278aa52917"
   },
   {
     "order": 25,
@@ -221,8 +221,8 @@
     "type": "Video",
     "file": "25_Video_Internet_Archive_Feature_Films.txt",
     "source": "video/Internet_Archive_Feature_Films.txt",
-    "bytes": 76238,
-    "sha256": "9a83d9536177a09d9ead20e8b01f55c5f85b02642f30dcfb684101f6a4a74bd3"
+    "bytes": 76255,
+    "sha256": "0012662254c898afa766560145edf0cad777ed2b97c451a810f7b6557f78e580"
   },
   {
     "order": 26,
@@ -230,8 +230,8 @@
     "type": "Video",
     "file": "26_Video_Internet_Archive_Classic_TV.txt",
     "source": "video/Internet_Archive_Classic_TV.txt",
-    "bytes": 76213,
-    "sha256": "fc2897a44cd14153504a705c74234caf97cbed45d2679c58b2145a6fbc550d9a"
+    "bytes": 76230,
+    "sha256": "dd148868b250fdaad0ae265838e048d2f3d5289c39fdd16e59c331babe255f2d"
   },
   {
     "order": 27,
@@ -239,8 +239,8 @@
     "type": "Video",
     "file": "27_Video_Pluto_TV_Live.txt",
     "source": "video/Pluto_TV_Live.txt",
-    "bytes": 166281,
-    "sha256": "c976068a5481c062a13893c312f42362c2c0257dfb4a01b90af08e497adfca62"
+    "bytes": 166298,
+    "sha256": "692492818ff939d0fe4d38debda0dcc7f13a122fb2d4c0e984b3edabda2f82b2"
   },
   {
     "order": 28,
@@ -248,8 +248,8 @@
     "type": "Video",
     "file": "28_Video_Dailymotion_TV_Movies.txt",
     "source": "video/Dailymotion_TV_Movies.txt",
-    "bytes": 134009,
-    "sha256": "2ea71fd9e8a6b30acc31ac5f112ffb7e51086a3e33f1730e6ce7d1683bdee30c"
+    "bytes": 134026,
+    "sha256": "3a55fceac6f4cea5f50fb554d8047195b0c58dbfc1d0ad92749191d8cfbe1d2d"
   },
   {
     "order": 29,
@@ -257,8 +257,8 @@
     "type": "Video",
     "file": "29_Video_WikiFlix.txt",
     "source": "video/WikiFlix.txt",
-    "bytes": 86233,
-    "sha256": "c94a3748685e9d269b7443202c0e936e37fc71d29f20e5f2067bf158021ecef4"
+    "bytes": 86250,
+    "sha256": "b4cd634fa066ce02c3540be54130790997718cedd2344f16be4cb4f355ca4db1"
   },
   {
     "order": 30,
@@ -266,7 +266,7 @@
     "type": "Video",
     "file": "30_Video_Library_of_Congress_Films.txt",
     "source": "video/Library_of_Congress_Films.txt",
-    "bytes": 78270,
-    "sha256": "b76f665bbc877ca4d30a257b5a65e06856de92382a6cb140fce4b129875ef01b"
+    "bytes": 78287,
+    "sha256": "33c3996ba8b92786594697934f588ce55195b4a296449ebad496043cee7fd77d"
   }
 ]
