@@ -261,3 +261,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch HLS or Watch Live.
    - PASS: one official STIRR HLS raw video link appears.
 
+44. 44_Video_Local_Now_TV_Movies.txt - Local Now TV & Movies (Video)
+   - Import the module and open the main page.
+   - Open a Local Now movie or show.
+   - Open Watch or any episode.
+   - PASS: one official Local Now HLS raw video link appears.
+
