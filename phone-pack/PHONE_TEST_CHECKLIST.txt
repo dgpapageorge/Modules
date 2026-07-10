@@ -189,3 +189,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live.
    - PASS: one HLS live raw video link appears.
 
+32. 32_Video_DistroTV_Live_Movies.txt - DistroTV Live & Movies (Video)
+   - Import the module and open the main page.
+   - Open Frightflix, Business Rockstars, or any listed DistroTV result.
+   - Open Watch Live or any listed video.
+   - PASS: one HLS or MP4 raw video link appears.
+
