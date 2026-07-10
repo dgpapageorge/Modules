@@ -249,3 +249,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live.
    - PASS: one official Plex HLS raw video link appears.
 
+42. 42_Video_Popcornflix_TV_Movies.txt - Popcornflix TV & Movies (Video)
+   - Import the module and open the main page.
+   - Search for: survivor or open New Arrivals.
+   - Open Survivor or any Popcornflix result.
+   - PASS: one official Popcornflix HLS raw video link appears.
+

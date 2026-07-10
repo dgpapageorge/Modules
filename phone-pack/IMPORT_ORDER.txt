@@ -41,3 +41,4 @@ Suggested Ketsu/Zetsu import order
 39. 39_Video_PBS_Video.txt - PBS Video (Video)
 40. 40_Video_Fawesome_Free.txt - Fawesome Free (Video)
 41. 41_Video_Plex_Live_TV.txt - Plex Live TV (Video)
+42. 42_Video_Popcornflix_TV_Movies.txt - Popcornflix TV & Movies (Video)
