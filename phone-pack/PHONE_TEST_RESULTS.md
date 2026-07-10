@@ -37,6 +37,7 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 25 | 25_Video_Internet_Archive_Feature_Films.txt | Internet Archive Feature Films | Video |  |  |  |  |  |
 | 26 | 26_Video_Internet_Archive_Classic_TV.txt | Internet Archive Classic TV | Video |  |  |  |  |  |
 | 27 | 27_Video_Pluto_TV_Live.txt | Pluto TV Live | Video |  |  |  |  |  |
+| 28 | 28_Video_Dailymotion_TV_Movies.txt | Dailymotion TV & Movies | Video |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

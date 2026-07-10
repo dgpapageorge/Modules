@@ -165,3 +165,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live.
    - PASS: one HLS live raw video link appears.
 
+28. 28_Video_Dailymotion_TV_Movies.txt - Dailymotion TV & Movies (Video)
+   - Import the module, open it, then search for: classic tv full episode
+   - Open any Dailymotion video result.
+   - Open Play video.
+   - PASS: at least one raw HLS or direct video link appears.
+
