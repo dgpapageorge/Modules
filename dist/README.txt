@@ -30,6 +30,7 @@ Manifest:
 - DistroTV Live & Movies (Video): video/DistroTV_Live_Movies.json / video/DistroTV_Live_Movies.txt
 - Shout TV Free (Video): video/Shout_TV_Free.json / video/Shout_TV_Free.txt
 - Xumo Play Live (Video): video/Xumo_Play_Live.json / video/Xumo_Play_Live.txt
+- IPTV-org TV & Movies (Video): video/IPTV-org_TV_Movies.json / video/IPTV-org_TV_Movies.txt
 - Dailymotion TV & Movies (Video): video/Dailymotion_TV_Movies.json / video/Dailymotion_TV_Movies.txt
 - WikiFlix (Video): video/WikiFlix.json / video/WikiFlix.txt
 - Library of Congress Films (Video): video/Library_of_Congress_Films.json / video/Library_of_Congress_Films.txt

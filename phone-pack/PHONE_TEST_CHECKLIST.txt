@@ -207,3 +207,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live.
    - PASS: one official HLS live raw video link appears.
 
+35. 35_Video_IPTV-org_TV_Movies.txt - IPTV-org TV & Movies (Video)
+   - Import the module and open the main page.
+   - Open 30A TV Classic Movies, FilmRise, Cinevault, or any listed stream.
+   - Open Watch Live.
+   - PASS: one HLS live raw video link appears.
+
