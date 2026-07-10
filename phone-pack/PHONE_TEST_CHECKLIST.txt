@@ -159,3 +159,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open a listed video file.
    - PASS: at least one direct raw video link appears.
 
+27. 27_Video_Pluto_TV_Live.txt - Pluto TV Live (Video)
+   - Import the module, open it, then search for: survivor
+   - Open the Survivor or Big Brother live channel.
+   - Open Watch Live.
+   - PASS: one HLS live raw video link appears.
+
