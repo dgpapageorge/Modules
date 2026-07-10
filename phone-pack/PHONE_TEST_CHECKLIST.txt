@@ -213,3 +213,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live.
    - PASS: one HLS live raw video link appears.
 
+36. 36_Video_Filmzie_Free.txt - Filmzie Free (Video)
+   - Import the module and open the main page.
+   - Open Tamala 2010, Behind The Wall, Welcome Home, or any listed Filmzie result.
+   - Open Watch Movie or any listed episode.
+   - PASS: one official Filmzie HLS raw video link appears.
+
