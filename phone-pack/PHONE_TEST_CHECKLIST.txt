@@ -219,3 +219,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Movie or any listed episode.
    - PASS: one official Filmzie HLS raw video link appears.
 
+37. 37_Video_Tubi_Free.txt - Tubi Free (Video)
+   - Import the module and open the main page.
+   - Search for: anime or survivor.
+   - Open any Tubi movie or series result, then open Play Video or an episode.
+   - PASS: one official Tubi HLS raw video link appears.
+
