@@ -225,3 +225,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open any Tubi movie or series result, then open Play Video or an episode.
    - PASS: one official Tubi HLS raw video link appears.
 
+38. 38_Video_Pluto_TV_On_Demand.txt - Pluto TV On Demand (Video)
+   - Import the module and open the main page.
+   - Search for: survivor or big brother.
+   - Open any Pluto on-demand movie or series result, then open Play Movie or an episode.
+   - PASS: one official Pluto on-demand HLS raw video link appears.
+
