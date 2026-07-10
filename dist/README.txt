@@ -23,6 +23,8 @@ Manifest:
 - WEBTOON (Image): image/WEBTOON.json / image/WEBTOON.txt
 - Tapas (Image): image/Tapas.json / image/Tapas.txt
 - Internet Archive TV & Movies (Video): video/Internet_Archive_TV_Movies.json / video/Internet_Archive_TV_Movies.txt
+- Internet Archive Feature Films (Video): video/Internet_Archive_Feature_Films.json / video/Internet_Archive_Feature_Films.txt
+- Internet Archive Classic TV (Video): video/Internet_Archive_Classic_TV.json / video/Internet_Archive_Classic_TV.txt
 - Wikimedia Commons Video (Video): video/Wikimedia_Commons_Video.json / video/Wikimedia_Commons_Video.txt
 - PeerTube Movies & Shows (Video): video/PeerTube_Movies_Shows.json / video/PeerTube_Movies_Shows.txt
 - Internet Archive Anime (Video): video/Internet_Archive_Anime.json / video/Internet_Archive_Anime.txt

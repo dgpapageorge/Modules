@@ -147,3 +147,15 @@ Record failures with the module number, action that failed, and any app error te
    - Open the Play video chapter.
    - PASS: at least one HLS or direct raw video link appears.
 
+25. 25_Video_Internet_Archive_Feature_Films.txt - Internet Archive Feature Films (Video)
+   - Import the module, open it, then search for: his girl friday
+   - Open any feature film result.
+   - Open a listed video file.
+   - PASS: at least one direct raw video link appears.
+
+26. 26_Video_Internet_Archive_Classic_TV.txt - Internet Archive Classic TV (Video)
+   - Import the module, open it, then search for: beverly hillbillies
+   - Open any classic TV result.
+   - Open a listed video file.
+   - PASS: at least one direct raw video link appears.
+
