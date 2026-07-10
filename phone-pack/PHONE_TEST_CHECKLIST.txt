@@ -237,3 +237,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open any PBS video result, then open Play Video.
    - PASS: at least one official PBS HLS or MP4 raw video link appears.
 
+40. 40_Video_Fawesome_Free.txt - Fawesome Free (Video)
+   - Import the module and open the main page.
+   - Search for: anime or open New Arrivals.
+   - Open Skye Hoshi: Anime Girl or any non-DRM Fawesome result.
+   - PASS: one official Fawesome HLS raw video link appears.
+

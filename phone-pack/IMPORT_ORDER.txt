@@ -39,3 +39,4 @@ Suggested Ketsu/Zetsu import order
 37. 37_Video_Tubi_Free.txt - Tubi Free (Video)
 38. 38_Video_Pluto_TV_On_Demand.txt - Pluto TV On Demand (Video)
 39. 39_Video_PBS_Video.txt - PBS Video (Video)
+40. 40_Video_Fawesome_Free.txt - Fawesome Free (Video)

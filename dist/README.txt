@@ -32,6 +32,7 @@ Manifest:
 - Xumo Play Live (Video): video/Xumo_Play_Live.json / video/Xumo_Play_Live.txt
 - IPTV-org TV & Movies (Video): video/IPTV-org_TV_Movies.json / video/IPTV-org_TV_Movies.txt
 - Filmzie Free (Video): video/Filmzie_Free.json / video/Filmzie_Free.txt
+- Fawesome Free (Video): video/Fawesome_Free.json / video/Fawesome_Free.txt
 - Tubi Free (Video): video/Tubi_Free.json / video/Tubi_Free.txt
 - Pluto TV On Demand (Video): video/Pluto_TV_On_Demand.json / video/Pluto_TV_On_Demand.txt
 - PBS Video (Video): video/PBS_Video.json / video/PBS_Video.txt
