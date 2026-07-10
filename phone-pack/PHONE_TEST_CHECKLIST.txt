@@ -171,3 +171,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Play video.
    - PASS: at least one raw HLS or direct video link appears.
 
+29. 29_Video_WikiFlix.txt - WikiFlix (Video)
+   - Import the module, open it, then search for: nosferatu
+   - Open Nosferatu or any public-domain film result.
+   - Open a Wikimedia Commons, Internet Archive, or Dailymotion source.
+   - PASS: at least one direct raw video/transcode link appears.
+

@@ -27,6 +27,7 @@ Manifest:
 - Internet Archive Classic TV (Video): video/Internet_Archive_Classic_TV.json / video/Internet_Archive_Classic_TV.txt
 - Pluto TV Live (Video): video/Pluto_TV_Live.json / video/Pluto_TV_Live.txt
 - Dailymotion TV & Movies (Video): video/Dailymotion_TV_Movies.json / video/Dailymotion_TV_Movies.txt
+- WikiFlix (Video): video/WikiFlix.json / video/WikiFlix.txt
 - Wikimedia Commons Video (Video): video/Wikimedia_Commons_Video.json / video/Wikimedia_Commons_Video.txt
 - PeerTube Movies & Shows (Video): video/PeerTube_Movies_Shows.json / video/PeerTube_Movies_Shows.txt
 - Internet Archive Anime (Video): video/Internet_Archive_Anime.json / video/Internet_Archive_Anime.txt
