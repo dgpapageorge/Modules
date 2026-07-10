@@ -129,3 +129,21 @@ Record failures with the module number, action that failed, and any app error te
    - Open episode 1 or any available free episode.
    - PASS: Tapas comic images load in order and scroll cleanly.
 
+22. 22_Video_Internet_Archive_TV_Movies.txt - Internet Archive TV & Movies (Video)
+   - Import the module, open it, then search for: public domain movie
+   - Open any movie or classic TV result.
+   - Open a listed video file.
+   - PASS: at least one direct raw video link appears.
+
+23. 23_Video_Wikimedia_Commons_Video.txt - Wikimedia Commons Video (Video)
+   - Import the module, open it, then search for: documentary
+   - Open any video file result.
+   - Open the video chapter.
+   - PASS: at least one raw video/transcode link appears.
+
+24. 24_Video_PeerTube_Movies_Shows.txt - PeerTube Movies & Shows (Video)
+   - Import the module, open it, then search for: documentary
+   - Open any public video result.
+   - Open the Play video chapter.
+   - PASS: at least one HLS or direct raw video link appears.
+

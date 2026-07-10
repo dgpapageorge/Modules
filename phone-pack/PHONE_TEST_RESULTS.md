@@ -31,6 +31,9 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 19 | 19_Image_Asura_Scans.txt | Asura Scans | Image |  |  |  |  |  |
 | 20 | 20_Image_MangaKatana.txt | MangaKatana | Image |  |  |  |  |  |
 | 21 | 21_Image_Tapas.txt | Tapas | Image |  |  |  |  |  |
+| 22 | 22_Video_Internet_Archive_TV_Movies.txt | Internet Archive TV & Movies | Video |  |  |  |  |  |
+| 23 | 23_Video_Wikimedia_Commons_Video.txt | Wikimedia Commons Video | Video |  |  |  |  |  |
+| 24 | 24_Video_PeerTube_Movies_Shows.txt | PeerTube Movies & Shows | Video |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

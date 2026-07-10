@@ -21,3 +21,6 @@ Suggested Ketsu/Zetsu import order
 19. 19_Image_Asura_Scans.txt - Asura Scans (Image)
 20. 20_Image_MangaKatana.txt - MangaKatana (Image)
 21. 21_Image_Tapas.txt - Tapas (Image)
+22. 22_Video_Internet_Archive_TV_Movies.txt - Internet Archive TV & Movies (Video)
+23. 23_Video_Wikimedia_Commons_Video.txt - Wikimedia Commons Video (Video)
+24. 24_Video_PeerTube_Movies_Shows.txt - PeerTube Movies & Shows (Video)

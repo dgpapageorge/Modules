@@ -22,6 +22,9 @@ Manifest:
 - WeebCentral (Image): image/WeebCentral.json / image/WeebCentral.txt
 - WEBTOON (Image): image/WEBTOON.json / image/WEBTOON.txt
 - Tapas (Image): image/Tapas.json / image/Tapas.txt
+- Internet Archive TV & Movies (Video): video/Internet_Archive_TV_Movies.json / video/Internet_Archive_TV_Movies.txt
+- Wikimedia Commons Video (Video): video/Wikimedia_Commons_Video.json / video/Wikimedia_Commons_Video.txt
+- PeerTube Movies & Shows (Video): video/PeerTube_Movies_Shows.json / video/PeerTube_Movies_Shows.txt
 - Internet Archive Anime (Video): video/Internet_Archive_Anime.json / video/Internet_Archive_Anime.txt
 - Wikimedia Commons Anime (Video): video/Wikimedia_Commons_Anime.json / video/Wikimedia_Commons_Anime.txt
 - AniLiberty (Video): video/AniLiberty.json / video/AniLiberty.txt
