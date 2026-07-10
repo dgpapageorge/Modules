@@ -195,3 +195,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Watch Live or any listed video.
    - PASS: one HLS or MP4 raw video link appears.
 
+33. 33_Video_Shout_TV_Free.txt - Shout TV Free (Video)
+   - Import the module and open the main page.
+   - Open Stagecoach, Johnny Carson TV, or any listed free Shout TV result.
+   - Open Play Video or Watch Live.
+   - PASS: one official HLS raw video link appears.
+

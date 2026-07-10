@@ -42,6 +42,7 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 30 | 30_Video_Library_of_Congress_Films.txt | Library of Congress Films | Video |  |  |  |  |  |
 | 31 | 31_Video_Pluto_TV_Anime.txt | Pluto TV Anime | Video |  |  |  |  |  |
 | 32 | 32_Video_DistroTV_Live_Movies.txt | DistroTV Live & Movies | Video |  |  |  |  |  |
+| 33 | 33_Video_Shout_TV_Free.txt | Shout TV Free | Video |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.
