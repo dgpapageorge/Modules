@@ -50,6 +50,7 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 38 | 38_Video_Pluto_TV_On_Demand.txt | Pluto TV On Demand | Video |  |  |  |  |  |
 | 39 | 39_Video_PBS_Video.txt | PBS Video | Video |  |  |  |  |  |
 | 40 | 40_Video_Fawesome_Free.txt | Fawesome Free | Video |  |  |  |  |  |
+| 41 | 41_Video_Plex_Live_TV.txt | Plex Live TV | Video |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

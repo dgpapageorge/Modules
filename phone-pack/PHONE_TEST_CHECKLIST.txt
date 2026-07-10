@@ -243,3 +243,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Skye Hoshi: Anime Girl or any non-DRM Fawesome result.
    - PASS: one official Fawesome HLS raw video link appears.
 
+41. 41_Video_Plex_Live_TV.txt - Plex Live TV (Video)
+   - Import the module and open the main page.
+   - Open any Plex live TV card.
+   - Open Watch Live.
+   - PASS: one official Plex HLS raw video link appears.
+
