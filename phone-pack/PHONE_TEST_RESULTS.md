@@ -52,6 +52,7 @@ Fill this in after testing the numbered modules inside Ketsu/Zetsu.
 | 40 | 40_Video_Fawesome_Free.txt | Fawesome Free | Video |  |  |  |  |  |
 | 41 | 41_Video_Plex_Live_TV.txt | Plex Live TV | Video |  |  |  |  |  |
 | 42 | 42_Video_Popcornflix_TV_Movies.txt | Popcornflix TV & Movies | Video |  |  |  |  |  |
+| 43 | 43_Video_STIRR_TV_Movies.txt | STIRR TV & Movies | Video |  |  |  |  |  |
 
 Use PASS, FAIL, or SKIP in the result columns.
 For any FAIL, include the app error text, the action that failed, and whether retrying changed the result.

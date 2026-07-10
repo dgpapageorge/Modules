@@ -35,6 +35,7 @@ Manifest:
 - Fawesome Free (Video): video/Fawesome_Free.json / video/Fawesome_Free.txt
 - Plex Live TV (Video): video/Plex_Live_TV.json / video/Plex_Live_TV.txt
 - Popcornflix TV & Movies (Video): video/Popcornflix_TV_Movies.json / video/Popcornflix_TV_Movies.txt
+- STIRR TV & Movies (Video): video/STIRR_TV_Movies.json / video/STIRR_TV_Movies.txt
 - Tubi Free (Video): video/Tubi_Free.json / video/Tubi_Free.txt
 - Pluto TV On Demand (Video): video/Pluto_TV_On_Demand.json / video/Pluto_TV_On_Demand.txt
 - PBS Video (Video): video/PBS_Video.json / video/PBS_Video.txt

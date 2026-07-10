@@ -255,3 +255,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open Survivor or any Popcornflix result.
    - PASS: one official Popcornflix HLS raw video link appears.
 
+43. 43_Video_STIRR_TV_Movies.txt - STIRR TV & Movies (Video)
+   - Import the module and open the main page.
+   - Open a STIRR movie or live channel.
+   - Open Watch HLS or Watch Live.
+   - PASS: one official STIRR HLS raw video link appears.
+
