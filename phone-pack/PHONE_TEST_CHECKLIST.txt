@@ -231,3 +231,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open any Pluto on-demand movie or series result, then open Play Movie or an episode.
    - PASS: one official Pluto on-demand HLS raw video link appears.
 
+39. 39_Video_PBS_Video.txt - PBS Video (Video)
+   - Import the module and open the main page.
+   - Search for: nova or frontline.
+   - Open any PBS video result, then open Play Video.
+   - PASS: at least one official PBS HLS or MP4 raw video link appears.
+

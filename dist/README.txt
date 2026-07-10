@@ -34,6 +34,7 @@ Manifest:
 - Filmzie Free (Video): video/Filmzie_Free.json / video/Filmzie_Free.txt
 - Tubi Free (Video): video/Tubi_Free.json / video/Tubi_Free.txt
 - Pluto TV On Demand (Video): video/Pluto_TV_On_Demand.json / video/Pluto_TV_On_Demand.txt
+- PBS Video (Video): video/PBS_Video.json / video/PBS_Video.txt
 - Dailymotion TV & Movies (Video): video/Dailymotion_TV_Movies.json / video/Dailymotion_TV_Movies.txt
 - WikiFlix (Video): video/WikiFlix.json / video/WikiFlix.txt
 - Library of Congress Films (Video): video/Library_of_Congress_Films.json / video/Library_of_Congress_Films.txt
