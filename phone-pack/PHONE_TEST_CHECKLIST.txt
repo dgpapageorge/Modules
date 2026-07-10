@@ -177,3 +177,9 @@ Record failures with the module number, action that failed, and any app error te
    - Open a Wikimedia Commons, Internet Archive, or Dailymotion source.
    - PASS: at least one direct raw video/transcode link appears.
 
+30. 30_Video_Library_of_Congress_Films.txt - Library of Congress Films (Video)
+   - Import the module, open it, then search for: feature film
+   - Open any LOC film result.
+   - Open the digital viewing copy.
+   - PASS: at least one HLS or MP4 raw video link from loc.gov appears.
+
